@@ -4,7 +4,7 @@
 
 ---
 
-## Two modes. One mission.hbhubuuhuhuh
+## Two modes. One mission.
 
 | Mode | Who it's for | What they see |
 |---|---|---|
