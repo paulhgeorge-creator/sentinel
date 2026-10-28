@@ -4,6 +4,13 @@
 
 ---
 
+## My contribution
+
+Built the RAG pipeline: ingestion, chunking, Gemini embeddings, vector store, and hallucination guardrails.
+
+---
+
+
 ## Two modes. One mission.
 
 | Mode | Who it's for | What they see |
